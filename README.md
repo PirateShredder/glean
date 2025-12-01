@@ -1,4 +1,4 @@
-# TODO Scanner
+# GLEAN - A ToDo Scanner for directories containing md files
 
 A Go program that intelligently scans directories for markdown and text files, extracts action items using Gemini AI, and generates TODO files.
 
